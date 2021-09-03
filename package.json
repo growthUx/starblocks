@@ -1,0 +1,9 @@
+{
+  "name": "starblocks",
+  "version": "0.0.1",
+  "description": "Blockchain Developer Nanodegree",
+  "main": "index.js",
+  "author": "Victor Ramayrat <victor@growthux.com>",
+  "license": "MIT",
+  "private": false
+}
